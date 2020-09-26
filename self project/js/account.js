@@ -1,0 +1,5 @@
+class account{
+    constructor(name){
+        
+    }
+}
